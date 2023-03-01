@@ -1,0 +1,2 @@
+python CleanOBJ.py
+@PAUSE

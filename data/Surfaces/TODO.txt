@@ -1,0 +1,1 @@
+Just use vrml export, use vtk to generate cleaned obj.

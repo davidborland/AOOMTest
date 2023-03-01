@@ -1,0 +1,9 @@
+surfaceName E:/borland/data/Molecules/AOOMData/Surfaces/PBG_Deaminase/PBG_Deaminase_Clean_Surface.obj
+surfaceAOName E:/borland/data/Molecules/AOOMData/Surfaces/PBG_Deaminase/PBG_Deaminase_Clean_AO.xml
+surfacePVCName E:/borland/data/Molecules/AOOMData/Surfaces/PBG_Deaminase/PBG_Deaminase.pvc
+moleculeName E:/borland/data/Molecules/AOOMData/Molecules/PBG_Deaminase.obj
+surfaceQuat 0.89 0.27 0.31 -0.17
+moleculeQuat 0.885163 0.302133 0.328724 -0.130929
+moleculeTrans -0.595 0.38, -0.03
+allTrans -0.061 -0.054 -0.06
+scale 0.025

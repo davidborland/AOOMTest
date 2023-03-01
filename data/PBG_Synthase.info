@@ -1,0 +1,7 @@
+surfaceName E:/borland/data/Molecules/AOOMData/Surfaces/PBG_Synthase/PBG_Synthase_Clean_Surface.obj
+surfaceAOName E:/borland/data/Molecules/AOOMData/Surfaces/PBG_Synthase/PBG_Synthase_Clean_AO.xml
+surfacePVCName E:/borland/data/Molecules/AOOMData/Surfaces/PBG_Synthase/PBG_Synthase.pvc
+moleculeName E:/borland/data/Molecules/AOOMData/Molecules/PBG_Synthase.obj
+moleculeQuat -0.614526 -0.777335 -0.134044 0.0118413
+moleculeTrans -1.417 1.183 -1.41
+scale 0.025

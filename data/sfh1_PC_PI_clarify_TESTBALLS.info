@@ -1,0 +1,6 @@
+surfaceName E:/borland/data/Molecules/AOOMData/Surfaces/sfh1_PC_PI/clarify_surface_Clean.obj
+surfaceAOName E:/borland/data/Molecules/AOOMData/Surfaces/sfh1_PC_PI/clarify_AO_Clean.xml
+surfacePVCName E:/borland/data/Molecules/AOOMData/Surfaces/sfh1_PC_PI/clarify_surface.pvc
+ballsName E:/borland/data/Molecules/AOOMData/Surfaces/sfh1_PC_PI/clarify_balls_Clean.obj
+ballsPVCName E:/borland/data/Molecules/AOOMData/Surfaces/sfh1_PC_PI/clarify_balls.pvc
+scale 0.02

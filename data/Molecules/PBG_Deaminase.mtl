@@ -1,0 +1,3731 @@
+# Max2Mtl Version 4.0 Mar 10th, 2001
+#
+newmtl VMtl466
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl465
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl464
+Ka  1.0 0.1 0.1
+Kd  1.0 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl463
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl462
+Ka  1.0 0.1 0.1
+Kd  1.0 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl461
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl460
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl459
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl458
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl457
+Ka  1.0 0.1 0.1
+Kd  1.0 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl456
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl455
+Ka  1.0 0.1 0.1
+Kd  1.0 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl454
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl453
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl452
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl451
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl450
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl449
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl448
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl447
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl446
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl445
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl444
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl443
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl442
+Ka  1.0 0.1 0.1
+Kd  1.0 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl441
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl440
+Ka  1.0 0.1 0.1
+Kd  1.0 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl439
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl438
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl437
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl436
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl435
+Ka  1.0 0.1 0.1
+Kd  1.0 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl434
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl433
+Ka  1.0 0.1 0.1
+Kd  1.0 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl432
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl431
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl430
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl429
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl428
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl427
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl426
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl425
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl424
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl423
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl422
+Ka  1.0 1.0 0.2
+Kd  1.0 1.0 0.2
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl421
+Ka  1.0 1.0 0.2
+Kd  1.0 1.0 0.2
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl420
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl419
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl418
+Ka  1.0 0.1 0.1
+Kd  1.0 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl417
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl416
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl415
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl414
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl413
+Ka  1.0 0.1 0.1
+Kd  1.0 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl412
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl411
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl410
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl409
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl408
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl407
+Ka  1.0 0.1 0.1
+Kd  1.0 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl406
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl405
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl404
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl403
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl402
+Ka  1.0 0.1 0.1
+Kd  1.0 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl401
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl400
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl399
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl398
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl397
+Ka  1.0 0.1 0.1
+Kd  1.0 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl396
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl395
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl394
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl393
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl392
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl391
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl390
+Ka  1.0 0.1 0.1
+Kd  1.0 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl389
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl388
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl387
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl386
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl385
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl384
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl383
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl382
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl381
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl380
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl379
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl378
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl377
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl376
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl375
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl374
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl373
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl372
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl371
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl370
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl369
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl368
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl367
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl366
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl365
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl364
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl363
+Ka  1.0 0.1 0.1
+Kd  1.0 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl362
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl361
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl360
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl359
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl358
+Ka  1.0 0.1 0.1
+Kd  1.0 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl357
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl356
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl355
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl354
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl353
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl352
+Ka  1.0 0.1 0.1
+Kd  1.0 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl351
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl350
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl349
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl348
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl347
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl346
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl345
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl344
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl343
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl342
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl341
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl340
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl339
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl338
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl337
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl336
+Ka  1.0 0.1 0.1
+Kd  1.0 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl335
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl334
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl333
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl332
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl331
+Ka  1.0 0.1 0.1
+Kd  1.0 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl330
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl329
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl328
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl327
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl326
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl325
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl324
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl323
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl322
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl321
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl320
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl319
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl318
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl317
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl316
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl315
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl314
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl313
+Ka  1.0 0.1 0.1
+Kd  1.0 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl312
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl311
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl310
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl309
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl308
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl307
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl306
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl305
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl304
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl303
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl302
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl301
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl300
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl299
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl298
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl297
+Ka  1.0 0.1 0.1
+Kd  1.0 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl296
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl295
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl294
+Ka  1.0 0.1 0.1
+Kd  1.0 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl293
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl292
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl291
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl290
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl289
+Ka  1.0 0.1 0.1
+Kd  1.0 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl288
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl287
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl286
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl285
+Ka  1.0 0.1 0.1
+Kd  1.0 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl284
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl283
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl282
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl281
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl280
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl279
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl278
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl277
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl276
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl275
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl274
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl273
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl272
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl271
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl270
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl269
+Ka  1.0 0.1 0.1
+Kd  1.0 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl268
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl267
+Ka  1.0 0.1 0.1
+Kd  1.0 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl266
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl265
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl264
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl263
+Ka  1.0 0.1 0.1
+Kd  1.0 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl262
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl261
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl260
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl259
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl258
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl257
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl256
+Ka  1.0 0.1 0.1
+Kd  1.0 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl255
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl254
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl253
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl252
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl251
+Ka  1.0 0.1 0.1
+Kd  1.0 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl250
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl249
+Ka  1.0 0.1 0.1
+Kd  1.0 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl248
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl247
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl246
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl245
+Ka  1.0 0.1 0.1
+Kd  1.0 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl244
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl243
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl242
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl241
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl240
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl239
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl238
+Ka  1.0 0.1 0.1
+Kd  1.0 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl237
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl236
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl235
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl234
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl233
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl232
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl231
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl230
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl229
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl228
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl227
+Ka  1.0 0.1 0.1
+Kd  1.0 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl226
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl225
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl224
+Ka  1.0 0.1 0.1
+Kd  1.0 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl223
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl222
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl221
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl220
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl219
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl218
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl217
+Ka  1.0 0.1 0.1
+Kd  1.0 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl216
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl215
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl214
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl213
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl212
+Ka  1.0 0.1 0.1
+Kd  1.0 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl211
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl210
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl209
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl208
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl207
+Ka  1.0 0.1 0.1
+Kd  1.0 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl206
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl205
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl204
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl203
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl202
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl201
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl200
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl199
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl198
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl197
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl196
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl195
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl194
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl193
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl192
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl191
+Ka  1.0 0.1 0.1
+Kd  1.0 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl190
+Ka  1.0 0.1 0.1
+Kd  1.0 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl189
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl188
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl187
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl186
+Ka  1.0 0.1 0.1
+Kd  1.0 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl185
+Ka  1.0 0.1 0.1
+Kd  1.0 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl184
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl183
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl182
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl181
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl180
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl179
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl178
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl177
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl176
+Ka  1.0 0.1 0.1
+Kd  1.0 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl175
+Ka  1.0 0.1 0.1
+Kd  1.0 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl174
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl173
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl172
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl171
+Ka  1.0 0.1 0.1
+Kd  1.0 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl170
+Ka  1.0 0.1 0.1
+Kd  1.0 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl169
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl168
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl167
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl166
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl165
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl164
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl163
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl162
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl161
+Ka  1.0 1.0 0.2
+Kd  1.0 1.0 0.2
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl160
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl159
+Ka  1.0 0.1 0.1
+Kd  1.0 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl158
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl157
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl156
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl155
+Ka  1.0 0.1 0.1
+Kd  1.0 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl154
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl153
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl152
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl151
+Ka  1.0 0.1 0.1
+Kd  1.0 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl150
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl149
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl148
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl147
+Ka  1.0 0.1 0.1
+Kd  1.0 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl146
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl145
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl144
+Ka  1.0 0.1 0.1
+Kd  1.0 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl143
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl142
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl141
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl140
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl139
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl138
+Ka  1.0 0.1 0.1
+Kd  1.0 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl137
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl136
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl135
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl134
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl133
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl132
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl131
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl130
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl129
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl128
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl127
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl126
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl125
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl124
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl123
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl122
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl121
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl120
+Ka  1.0 0.1 0.1
+Kd  1.0 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl119
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl118
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl117
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl116
+Ka  1.0 0.1 0.1
+Kd  1.0 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl115
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl114
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl113
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl112
+Ka  1.0 0.1 0.1
+Kd  1.0 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl111
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl110
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl109
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl108
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl107
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl106
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl105
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl104
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl103
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl102
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl101
+Ka  1.0 0.1 0.1
+Kd  1.0 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl100
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl99
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl98
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl97
+Ka  1.0 0.1 0.1
+Kd  1.0 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl96
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl95
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl94
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl93
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl92
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl91
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl90
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl89
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl88
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl87
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl86
+Ka  1.0 0.1 0.1
+Kd  1.0 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl85
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl84
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl83
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl82
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl81
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl80
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl79
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl78
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl77
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl76
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl75
+Ka  1.0 0.1 0.1
+Kd  1.0 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl74
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl73
+Ka  1.0 0.1 0.1
+Kd  1.0 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl72
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl71
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl70
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl69
+Ka  1.0 0.1 0.1
+Kd  1.0 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl68
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl67
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl66
+Ka  1.0 0.1 0.1
+Kd  1.0 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl65
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl64
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl63
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl62
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl61
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl60
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl59
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl58
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl57
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl56
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl55
+Ka  1.0 0.1 0.1
+Kd  1.0 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl54
+Ka  1.0 0.1 0.1
+Kd  1.0 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl53
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl52
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl51
+Ka  1.0 0.1 0.1
+Kd  1.0 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl50
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl49
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl48
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl47
+Ka  1.0 0.1 0.1
+Kd  1.0 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl46
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl45
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl44
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl43
+Ka  1.0 0.1 0.1
+Kd  1.0 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl42
+Ka  1.0 0.1 0.1
+Kd  1.0 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl41
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl40
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl39
+Ka  1.0 0.1 0.1
+Kd  1.0 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl38
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl37
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl36
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl35
+Ka  1.0 0.1 0.1
+Kd  1.0 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl34
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl33
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl32
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl31
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl30
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl29
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl28
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl27
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl26
+Ka  1.0 0.1 0.1
+Kd  1.0 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl25
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl24
+Ka  1.0 0.1 0.1
+Kd  1.0 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl23
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl22
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl21
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl20
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl19
+Ka  1.0 0.1 0.1
+Kd  1.0 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl18
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl17
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl16
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl15
+Ka  1.0 0.1 0.1
+Kd  1.0 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl14
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl13
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl12
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl11
+Ka  1.0 0.1 0.1
+Kd  1.0 0.1 0.1
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl10
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl09
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl08
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl07
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl06
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl05
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl04
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl03
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl02
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+newmtl VMtl01
+Ka  0.2 0.3 1.0
+Kd  0.2 0.3 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  50.0
+illum 2
+#
+# EOF

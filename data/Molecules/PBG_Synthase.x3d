@@ -1,0 +1,2024 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<X3D version='3.2' profile='Interchange'
+ xmlns:xsd='http://www.w3.org/2001/XMLSchema-instance'
+ xsd:noNamespaceSchemaLocation='http://www.web3d.org/specifications/x3d-3.2.xsd'
+ xmlns:chimera='http://www.cgl.ucsf.edu/chimera/'>
+ <!-- X3D profile limits on number of elements/colors/etc. were ignored -->
+ <head>
+  <component name='Rendering' level='5'/>
+  <component name='Shape' level='2'/>
+  <component name='Navigation' level='3'/>
+  <meta content='UCSF Chimera, http://www.cgl.ucsf.edu/chimera/' name='generator'/>
+  <meta content='2009-03-05T16:51:03Z' name='created'/>
+ </head>
+ <Scene>
+  <NavigationInfo type='"EXAMINE" "ANY"' headlight='false'/>
+  <Background skyColor='0 0 0' transparency='0'/>
+  <Viewpoint description='default' position='31.3235 74.496 129.611' centerOfRotation='31.3235 74.496 57.0305' fieldOfView='0.332063' chimera:hither='55.7587' chimera:yon='89.4029'/>
+  <chimera:WindowSize width='1260' height='911'/>
+  <chimera:DepthCue range='72.5808 91.272' color='0 0 0'/>
+
+  <DirectionalLight color='1 1 1' intensity='0.653272' direction='0.357407 -0.660402 -0.660402'/>
+  <DirectionalLight color='1 1 1' intensity='0.49999' direction='-0.250563 -0.250563 -0.935113'/>
+  <Group>
+   <Transform>
+   </Transform>
+   <Transform rotation='0 0 1 0' translation='0 0 0' bboxCenter='31.3235 74.496 57.0305' bboxSize='22.101 19.56 16.755'>
+    <MetadataString value='"PBG_Synthase.pdb"' name='model name'/>
+    <Transform translation='22.543 66.542 59.883'>
+     <Shape>
+      <Appearance DEF='a0'>
+       <Material ambientIntensity='0' diffuseColor='0.188235 0.313725 0.972549' specularColor='1 1 1' shininess='0.234375'/>
+      </Appearance>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='22.483 67.523 60.971'>
+     <Shape>
+      <Appearance DEF='a1'>
+       <Material ambientIntensity='0' diffuseColor='0.564706 0.564706 0.564706' specularColor='1 1 1' shininess='0.234375'/>
+      </Appearance>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='21.469 67.143 62.041'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='20.273 67.077 61.776'>
+     <Shape>
+      <Appearance DEF='a2'>
+       <Material ambientIntensity='0' diffuseColor='1 0.0509804 0.0509804' specularColor='1 1 1' shininess='0.234375'/>
+      </Appearance>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='22.147 68.906 60.422'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='23.047 69.347 59.298'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='22.678 69.142 57.971'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='23.509 69.538 56.93'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='24.723 70.146 57.213'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='25.104 70.356 58.534'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='24.268 69.958 59.566'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='26.892 66.053 62.513'>
+     <Shape>
+      <Appearance USE='a0'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='27.001 67.46 62.917'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='25.921 67.729 63.981'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='24.743 67.444 63.758'>
+     <Shape>
+      <Appearance USE='a2'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='26.732 68.379 61.725'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='27.832 68.412 60.702'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='28.938 69.234 60.877'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='29.941 69.296 59.908'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='29.843 68.53 58.755'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='28.744 67.701 58.568'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='27.746 67.646 59.54'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='31.884 64.716 63.024'>
+     <Shape>
+      <Appearance USE='a0'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='32.598 65.992 63.043'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='32.965 66.408 64.469'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='32.191 66.272 65.408'>
+     <Shape>
+      <Appearance USE='a2'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='31.698 67.052 62.408'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='32.498 68.33 62.195'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='32.546 69.137 63.124'>
+     <Shape>
+      <Appearance USE='a2'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='33.055 68.504 61.114'>
+     <Shape>
+      <Appearance USE='a2'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='37.578 69.372 62.545'>
+     <Shape>
+      <Appearance USE='a0'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='37.481 70.425 61.527'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='38.013 71.801 61.982'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='38.028 72.771 61.212'>
+     <Shape>
+      <Appearance USE='a2'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='36.032 70.534 61.026'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='35.12 70.562 62.1'>
+     <Shape>
+      <Appearance USE='a2'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='40.531 67.385 58.823'>
+     <Shape>
+      <Appearance USE='a0'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='40.276 68.423 57.839'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='41.6 69.075 57.402'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='41.894 70.218 57.721'>
+     <Shape>
+      <Appearance USE='a2'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='39.359 69.475 58.477'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='37.923 69.062 58.379'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='37.44 68.007 59.151'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='36.094 67.649 59.075'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='35.235 68.358 58.215'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='33.896 68.019 58.148'>
+     <Shape>
+      <Appearance USE='a2'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='35.724 69.398 57.449'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='37.059 69.747 57.53'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='41.727 73.009 54.706'>
+     <Shape>
+      <Appearance USE='a0'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='40.422 73.665 54.77'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='40.636 75.142 54.483'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='41.258 75.843 55.276'>
+     <Shape>
+      <Appearance USE='a2'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='39.845 73.474 56.171'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='38.407 73.902 56.38'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='38.11 73.863 57.881'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='36.691 74.259 58.214'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='35.716 73.228 57.774'>
+     <Shape>
+      <Appearance USE='a0'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='25.688 76.426 54.671'>
+     <Shape>
+      <Appearance USE='a0'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='25.992 75.671 55.885'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='27.456 75.232 55.868'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='27.831 74.312 56.991'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='28.599 74.77 58.051'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='28.969 73.921 59.086'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='28.571 72.595 59.068'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='27.8 72.124 58.014'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='27.433 72.985 56.981'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='25.725 76.514 57.137'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='25.741 77.839 56.964'>
+     <Shape>
+      <Appearance USE='a0'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='25.492 78.809 58.046'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='24.079 78.634 58.595'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='23.846 78.677 59.806'>
+     <Shape>
+      <Appearance USE='a2'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='25.626 80.244 57.513'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='27.029 80.665 57.13'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='27.79 81.171 58.335'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='29.124 80.584 58.414'>
+     <Shape>
+      <Appearance USE='a0'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='29.362 79.301 58.673'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='28.356 78.465 58.88'>
+     <Shape>
+      <Appearance USE='a0'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='30.606 78.855 58.734'>
+     <Shape>
+      <Appearance USE='a0'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='25.525 75.972 58.228'>
+     <Shape>
+      <Appearance USE='a2'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='37.86 84.276 60.118'>
+     <Shape>
+      <Appearance USE='a0'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='38.234 82.872 60.189'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='37.049 81.968 59.827'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='35.997 81.904 60.929'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='34.947 80.808 60.723'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='34.174 80.589 61.948'>
+     <Shape>
+      <Appearance USE='a0'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='33.092 79.824 62.036'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='32.465 79.69 63.197'>
+     <Shape>
+      <Appearance USE='a0'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='32.634 79.191 60.965'>
+     <Shape>
+      <Appearance USE='a0'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='39.366 82.69 59.194'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='39.677 81.578 58.782'>
+     <Shape>
+      <Appearance USE='a2'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='41.663 79.279 59.079'>
+     <Shape>
+      <Appearance USE='a0'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='41.237 78.648 57.838'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='39.777 78.97 57.532'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='38.842 77.88 58.025'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='37.378 78.23 57.892'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='36.917 78.647 56.831'>
+     <Shape>
+      <Appearance USE='a2'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='36.632 78.049 58.974'>
+     <Shape>
+      <Appearance USE='a0'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='42.162 79.196 56.757'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='42.374 80.408 56.656'>
+     <Shape>
+      <Appearance USE='a2'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='38.986 70.806 51.623'>
+     <Shape>
+      <Appearance USE='a0'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='37.719 71.494 51.703'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='37.893 72.99 51.465'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='38.643 73.672 52.151'>
+     <Shape>
+      <Appearance USE='a2'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='37.137 71.244 53.093'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='35.682 71.701 53.203'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='35.088 71.416 54.583'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='33.95 72.381 54.936'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='33.394 72.034 56.243'>
+     <Shape>
+      <Appearance USE='a0'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='32.589 71.977 57.662'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='33.015 72.144 59.07'>
+     <Shape>
+      <Appearance USE='a0'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='32.963 73.57 59.415'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='33.39 74.173 60.78'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='33.841 73.096 61.642'>
+     <Shape>
+      <Appearance USE='a0'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='32.433 74.373 58.244'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='32.242 73.37 57.13'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='31.733 73.721 55.696'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='30.834 72.616 55.154'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='29.754 73.154 54.235'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='28.821 72.328 53.627'>
+     <Shape>
+      <Appearance USE='a2'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='29.574 74.495 53.907'>
+     <Shape>
+      <Appearance USE='a2'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='32.005 75.877 58.234'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='33.138 76.795 58.466'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='34.379 76.231 58.657'>
+     <Shape>
+      <Appearance USE='a2'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='33.021 78.153 58.503'>
+     <Shape>
+      <Appearance USE='a2'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='28.369 73.02 50.848'>
+     <Shape>
+      <Appearance USE='a0'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='27.054 73.613 50.591'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='26.541 74.298 51.86'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='27.395 75.363 52.239'>
+     <Shape>
+      <Appearance USE='a2'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='27.02 74.606 49.421'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='26.07 74.622 48.653'>
+     <Shape>
+      <Appearance USE='a2'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='26.359 66.314 49.814'>
+     <Shape>
+      <Appearance USE='a0'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='24.944 66.281 50.146'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='24.124 65.557 49.063'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='22.964 65.21 49.244'>
+     <Shape>
+      <Appearance USE='a2'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='24.456 67.729 50.299'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='25.211 68.419 51.393'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='26.294 69.239 51.082'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='26.99 69.892 52.092'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='26.601 69.725 53.424'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='27.286 70.395 54.421'>
+     <Shape>
+      <Appearance USE='a2'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='25.527 68.912 53.739'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='24.83 68.259 52.728'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Sphere radius='0.2'/>
+     </Shape>
+    </Transform>
+    <Transform translation='22.499 67.261 60.6805' rotation='-0.581091 0 -0.0320455 2.30377'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='0.783077' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='22.529 66.7705 60.1365' rotation='0.506909 0 0.0279545 0.837823'>
+     <Shape>
+      <Appearance USE='a0'/>
+      <Cylinder radius='0.2' height='0.68311' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='21.976 67.333 61.506' rotation='-1.07 0 -1.014 1.31851'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='1.52233' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='21.138 67.1247 61.9677' rotation='-0.146667 0 0.661937 1.62462'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='0.678974' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='20.54 67.0917 61.8352' rotation='0.118333 0 -0.534063 1.51697'>
+     <Shape>
+      <Appearance USE='a2'/>
+      <Cylinder radius='0.2' height='0.547809' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='22.315 68.2145 60.6965' rotation='-0.549 0 0.336 0.435593'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='1.52545' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='22.597 69.1265 59.86' rotation='-1.124 0 -0.9 1.2736'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='1.50594' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='22.8625 69.2445 58.6345' rotation='1.327 0 -0.369 1.42304'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='1.39252' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='23.0935 69.34 57.4505' rotation='-1.041 0 -0.831 1.28182'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='1.38963' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='24.116 69.842 57.0715' rotation='0.283 0 -1.214 1.117'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='1.38692' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='24.9135 70.251 57.8735' rotation='-1.321 0 0.381 1.72237'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='1.39079' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='24.686 70.157 59.05' rotation='-1.032 0 -0.836 1.27964'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='1.38648' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='23.6575 69.6525 59.432' rotation='-0.268 0 1.221 2.02542'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='1.3914' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='26.9719 67.0843 62.8091' rotation='-0.215773 0 0.0582159 2.85252'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='0.783995' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='26.9174 66.3808 62.6071' rotation='0.188227 0 -0.0507841 0.289072'>
+     <Shape>
+      <Appearance USE='a0'/>
+      <Cylinder radius='0.2' height='0.68391' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='26.461 67.5945 63.449' rotation='-1.064 0 -1.08 1.7464'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='1.53976' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='25.595 67.6501 63.9193' rotation='-0.123421 0 0.651975 1.80418'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='0.682044' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='25.006 67.5076 63.8078' rotation='0.0995786 0 -0.526025 1.33741'>
+     <Shape>
+      <Appearance USE='a2'/>
+      <Cylinder radius='0.2' height='0.550286' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='26.8665 67.9195 62.321' rotation='-1.192 0 0.269 0.925978'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='1.52898' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='27.282 68.3955 61.2135' rotation='-1.023 0 -1.1 1.54883'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='1.50254' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='28.385 68.823 60.7895' rotation='-0.175 0 1.106 2.20403'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='1.38908' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='29.4395 69.265 60.3925' rotation='-0.969 0 -1.003 1.52637'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='1.396' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='29.892 68.913 59.3315' rotation='-1.153 0 0.098 2.15554'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='1.38772' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='29.2935 68.1155 58.6615' rotation='0.187 0 -1.099 0.931382'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='1.38925' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='28.245 67.6735 59.054' rotation='-0.972 0 -0.998 1.53134'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='1.39421' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='27.789 68.029 60.121' rotation='1.162 0 -0.086 0.989229'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='1.39442' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='32.4073 65.6512 63.0379' rotation='-0.0101477 0 0.381341 2.63129'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='0.781003' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='32.0503 65.0132 63.0284' rotation='0.00885227 0 -0.332659 0.510305'>
+     <Shape>
+      <Appearance USE='a0'/>
+      <Cylinder radius='0.2' height='0.681301' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='32.7815 66.2 63.756' rotation='-1.426 0 0.367 1.84614'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='1.5301' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='32.7508 66.3704 64.7288' rotation='0.519698 0 0.428377 1.6821'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='0.677686' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='32.3638 66.3024 65.1983' rotation='-0.419302 0 -0.345623 1.4595'>
+     <Shape>
+      <Appearance USE='a2'/>
+      <Cylinder radius='0.2' height='0.54677' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='32.148 66.522 62.7255' rotation='-0.635 0 0.9 0.80458'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='1.52867' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='32.098 67.691 62.3015' rotation='-0.213 0 -0.8 0.574817'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='1.52271' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='32.5117 68.5599 62.4596' rotation='0.529248 0 -0.0273455 0.856219'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='0.701582' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='32.5357 68.9634 62.9241' rotation='-0.399752 0 0.0206545 2.28537'>
+     <Shape>
+      <Appearance USE='a2'/>
+      <Cylinder radius='0.2' height='0.529918' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='32.6567 68.3796 61.8871' rotation='-0.615842 0 -0.317321 1.42868'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='0.699843' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='32.9352 68.4666 61.3466' rotation='0.465158 0 0.239679 1.71292'>
+     <Shape>
+      <Appearance USE='a2'/>
+      <Cylinder radius='0.2' height='0.528605' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='37.5069 70.1438 61.7989' rotation='0.543705 0 -0.0518068 2.37083'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='0.783958' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='37.5554 69.6173 62.3079' rotation='-0.474295 0 0.0451932 0.770758'>
+     <Shape>
+      <Appearance USE='a0'/>
+      <Cylinder radius='0.2' height='0.683878' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='37.747 71.113 61.7545' rotation='-0.455 0 0.532 2.67097'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='1.54383' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='38.0172 72.0694 61.7689' rotation='-0.426164 0 -0.00830189 0.67105'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='0.685491' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='38.0247 72.5544 61.3839' rotation='0.343836 0 0.00669811 2.47054'>
+     <Shape>
+      <Appearance USE='a2'/>
+      <Cylinder radius='0.2' height='0.553067' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='36.7565 70.4795 61.2765' rotation='-0.501 0 1.449 1.49982'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='1.53704' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='35.7753 70.5419 61.3283' rotation='0.604527 0 0.513341 1.55093'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='0.793234' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='35.3193 70.5559 61.8653' rotation='-0.469473 0 -0.398659 1.59067'>
+     <Shape>
+      <Appearance USE='a2'/>
+      <Cylinder radius='0.2' height='0.616022' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='40.3441 68.1458 58.1018' rotation='0.525545 0 -0.136193 2.36666'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='0.775945' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='40.4716 67.6268 58.5938' rotation='-0.458455 0 0.118807 0.774936'>
+     <Shape>
+      <Appearance USE='a0'/>
+      <Cylinder radius='0.2' height='0.676888' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='40.938 68.749 57.6205' rotation='0.437 0 1.324 2.00822'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='1.53917' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='41.6814 69.3913 57.4903' rotation='0.176553 0 -0.162717 0.362747'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='0.676635' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='41.8284 69.9628 57.6498' rotation='-0.142447 0 0.131283 2.77885'>
+     <Shape>
+      <Appearance USE='a2'/>
+      <Cylinder radius='0.2' height='0.545922' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='39.8175 68.949 58.158' rotation='0.638 0 0.917 0.815406'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='1.53448' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='38.641 69.2685 58.428' rotation='-0.098 0 1.436 1.85023'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='1.49742' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='37.6815 68.5345 58.765' rotation='-0.772 0 -0.483 0.71209'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='1.39366' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='36.767 67.828 59.113' rotation='-0.076 0 1.346 1.83036'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='1.39487' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='35.6645 68.0035 58.645' rotation='-0.86 0 0.859 1.04275'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='1.40718' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='34.8839 68.2691 58.1974' rotation='-0.0351368 0 0.702212 1.81846'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='0.725219' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='34.2144 68.0996 58.1639' rotation='0.0318632 0 -0.636788 1.32313'>
+     <Shape>
+      <Appearance USE='a2'/>
+      <Cylinder radius='0.2' height='0.657652' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='35.4795 68.878 57.832' rotation='0.766 0 0.489 2.42343'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='1.38111' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='36.3915 69.5725 57.4895' rotation='-0.081 0 1.335 1.82605'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='1.38224' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='37.491 69.4045 57.9545' rotation='0.849 0 -0.864 2.08546'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='1.39159' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='40.7705 73.4898 54.7529' rotation='-0.0341818 0 -0.696989 2.03611'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='0.780843' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='41.423 73.1618 54.7209' rotation='0.0298182 0 0.608011 1.10549'>
+     <Shape>
+      <Appearance USE='a0'/>
+      <Cylinder radius='0.2' height='0.681161' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='40.529 74.4035 54.6265' rotation='0.287 0 0.214 2.90379'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='1.51977' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='40.8081 75.336 54.7024' rotation='0.438893 0 -0.344252 0.963063'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='0.679456' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='41.1191 75.6865 55.0989' rotation='-0.354107 0 0.277748 2.17853'>
+     <Shape>
+      <Appearance USE='a2'/>
+      <Cylinder radius='0.2' height='0.548198' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='40.1335 73.5695 55.4705' rotation='1.401 0 0.577 1.69619'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='1.52716' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='39.126 73.688 56.2755' rotation='0.209 0 1.438 1.28436'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='1.51483' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='38.2585 73.8825 57.1305' rotation='-1.501 0 -0.297 1.54531'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='1.5306' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='37.4005 74.061 58.0475' rotation='0.333 0 1.419 1.30551'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='1.51039' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='36.4306 73.9837 58.0965' rotation='-0.235 0 0.520739 2.33778'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='0.793478' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='35.9431 73.4682 57.8765' rotation='0.205 0 -0.454261 0.803811'>
+     <Shape>
+      <Appearance USE='a0'/>
+      <Cylinder radius='0.2' height='0.692183' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='25.9108 75.8726 55.5608' rotation='-0.648386 0 0.162364 1.02797'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='0.78062' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='25.7588 76.2501 54.9538' rotation='0.565614 0 -0.141636 2.11363'>
+     <Shape>
+      <Appearance USE='a0'/>
+      <Cylinder radius='0.2' height='0.680967' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='26.724 75.4515 55.8765' rotation='-0.017 0 -1.464 1.86211'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='1.5285' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='27.6435 74.772 56.4295' rotation='1.123 0 -0.375 2.23139'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='1.49938' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='28.215 74.541 57.521' rotation='-1.06 0 0.768 1.90737'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='1.38679' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='28.784 74.3455 58.5685' rotation='1.035 0 -0.37 2.22849'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='1.38886' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='28.77 73.258 59.077' rotation='-0.018 0 0.398 2.84972'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='1.38456' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='28.1855 72.3595 58.541' rotation='1.054 0 -0.771 1.22465'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='1.38824' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='27.6165 72.5545 57.4975' rotation='1.033 0 -0.367 2.23657'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='1.39395' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='27.632 73.6485 56.986' rotation='0.01 0 -0.398 0.291474'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='1.38544' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='25.8585 76.0925 56.511' rotation='-1.252 0 -0.267 2.15313'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='1.53279' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='25.729 76.8422 57.0941' rotation='-0.0857015 0 -0.00792615 0.130379'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='0.662003' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='25.737 77.5047 57.0076' rotation='0.0872985 0 0.00807385 3.01121'>
+     <Shape>
+      <Appearance USE='a0'/>
+      <Cylinder radius='0.2' height='0.674339' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='25.5585 78.55 57.7571' rotation='-0.577886 0 -0.132989 2.28886'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='0.787422' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='25.683 78.065 57.2161' rotation='0.504114 0 0.116011 0.85273'>
+     <Shape>
+      <Appearance USE='a0'/>
+      <Cylinder radius='0.2' height='0.6869' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='24.7855 78.7215 58.3205' rotation='-0.549 0 -1.413 1.45586'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='1.52597' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='24.0145 78.6459 58.9301' rotation='0.670239 0 0.128956 1.53594'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='0.682947' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='23.898 78.6674 59.5356' rotation='-0.540761 0 -0.104044 1.60565'>
+     <Shape>
+      <Appearance USE='a2'/>
+      <Cylinder radius='0.2' height='0.551014' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='25.559 79.5265 57.7795' rotation='-0.533 0 -0.134 0.365754'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='1.53664' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='26.3275 80.4545 57.3215' rotation='-0.383 0 -1.403 1.28902'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='1.51405' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='27.4095 80.918 57.7325' rotation='-1.205 0 0.761 1.91196'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='1.51234' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='28.1462 81.0142 58.3561' rotation='0.0421932 0 -0.712477 1.98468'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='0.779547' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='28.8132 80.7207 58.3956' rotation='-0.0368068 0 0.621523 1.15691'>
+     <Shape>
+      <Appearance USE='a0'/>
+      <Cylinder radius='0.2' height='0.68003' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='29.303 79.6188 58.6088' rotation='-0.128305 0 0.117902 0.267584'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='0.659032' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='29.184 80.2603 58.4793' rotation='0.130695 0 -0.120098 2.87401'>
+     <Shape>
+      <Appearance USE='a0'/>
+      <Cylinder radius='0.2' height='0.671312' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='29.1128 79.0939 58.7243' rotation='0.102545 0 0.498357 2.25399'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='0.65604' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='28.6098 78.6759 58.8278' rotation='-0.104455 0 -0.507643 0.8876'>
+     <Shape>
+      <Appearance USE='a0'/>
+      <Cylinder radius='0.2' height='0.668264' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='29.6701 79.1905 58.6881' rotation='0.0302185 0 -0.616258 1.91466'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='0.655365' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='30.2921 78.9675 58.7186' rotation='-0.0307815 0 0.627742 1.22693'>
+     <Shape>
+      <Appearance USE='a0'/>
+      <Cylinder radius='0.2' height='0.667576' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='25.6719 76.37 57.4269' rotation='0.579706 0 0.106271 2.02532'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='0.655967' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='25.5719 76.099 57.9724' rotation='-0.511294 0 -0.0937294 1.11627'>
+     <Shape>
+      <Appearance USE='a2'/>
+      <Cylinder radius='0.2' height='0.578555' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='38.1341 83.2469 60.17' rotation='-0.0379205 0 0.19975 0.264773'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='0.776939' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='37.9471 83.9489 60.1345' rotation='0.0330795 0 -0.17425 2.87682'>
+     <Shape>
+      <Appearance USE='a0'/>
+      <Cylinder radius='0.2' height='0.677755' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='37.6415 82.42 60.008' rotation='-0.362 0 1.185 2.2011'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='1.53378' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='36.523 81.936 60.378' rotation='1.102 0 1.052 1.61278'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='1.52486' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='35.472 81.356 60.826' rotation='0.206 0 -1.05 0.773403'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='1.53172' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='34.7406 80.7495 61.0501' rotation='0.654261 0 0.412852 1.72085'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='0.782423' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='34.3541 80.64 61.6626' rotation='-0.570739 0 -0.360148 1.42074'>
+     <Shape>
+      <Appearance USE='a0'/>
+      <Cylinder radius='0.2' height='0.682539' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='33.36 80.0135 62.0142' rotation='-0.0435938 0 -0.536006 0.956925'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='0.657891' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='33.901 80.396 61.9702' rotation='0.0444062 0 0.545994 2.18467'>
+     <Shape>
+      <Appearance USE='a0'/>
+      <Cylinder radius='0.2' height='0.67015' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='32.9367 79.7908 62.3236' rotation='0.575142 0 0.310606 1.672'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='0.657016' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='32.6232 79.7238 62.9041' rotation='-0.585858 0 -0.316394 1.46959'>
+     <Shape>
+      <Appearance USE='a0'/>
+      <Cylinder radius='0.2' height='0.669259' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='32.9786 79.6672 61.7707' rotation='-0.530557 0 0.226886 2.06858'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='0.656734' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='32.7496 79.3507 61.2352' rotation='0.540443 0 -0.231114 1.07301'>
+     <Shape>
+      <Appearance USE='a0'/>
+      <Cylinder radius='0.2' height='0.668971' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='38.8 82.781 59.6915' rotation='0.995 0 1.132 1.45062'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='1.51808' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='39.4521 82.3823 59.08' rotation='-0.228025 0 -0.172126 2.70698'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='0.678526' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='39.6076 81.8263 58.874' rotation='0.183975 0 0.138874 0.434609'>
+     <Shape>
+      <Appearance USE='a2'/>
+      <Cylinder radius='0.2' height='0.547447' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='41.3508 78.8165 58.1694' rotation='0.662807 0 -0.227523 1.12253'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='0.777596' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='41.5638 79.132 58.7899' rotation='-0.578193 0 0.198477 2.01906'>
+     <Shape>
+      <Appearance USE='a0'/>
+      <Cylinder radius='0.2' height='0.678329' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='40.507 78.809 57.685' rotation='-0.306 0 1.46 1.3582'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='1.52608' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='39.3095 78.425 57.7785' rotation='0.493 0 0.935 2.37156'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='1.51835' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='38.11 78.055 57.9585' rotation='0.133 0 -1.464 1.80454'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='1.51112' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='37.2555 78.3408 57.6101' rotation='-0.563766 0 0.244954 1.22483'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='0.653398' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='37.025 78.5493 57.0796' rotation='0.497234 0 -0.216046 1.91677'>
+     <Shape>
+      <Appearance USE='a2'/>
+      <Cylinder radius='0.2' height='0.576289' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='37.1932 78.1852 58.16' rotation='0.536006 0 0.369557 1.70766'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='0.657202' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='36.8202 78.0947 58.701' rotation='-0.545994 0 -0.376443 1.43394'>
+     <Shape>
+      <Appearance USE='a0'/>
+      <Cylinder radius='0.2' height='0.669448' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='41.6995 78.922 57.2975' rotation='1.081 0 0.925 1.93846'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='1.52463' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='42.2207 79.5314 56.7291' rotation='-0.0558994 0 -0.117333 0.191383'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='0.683267' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='42.3267 80.1374 56.6786' rotation='0.0451006 0 0.0946667 2.95021'>
+     <Shape>
+      <Appearance USE='a2'/>
+      <Cylinder radius='0.2' height='0.551273' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='38.0573 71.3103 51.6816' rotation='-0.0427273 0 -0.676693 2.06743'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='0.771208' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='38.6908 70.9663 51.6416' rotation='0.0372727 0 0.590307 1.07417'>
+     <Shape>
+      <Appearance USE='a0'/>
+      <Cylinder radius='0.2' height='0.672756' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='37.806 72.242 51.584' rotation='0.238 0 0.174 2.94701'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='1.52477' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='38.1005 73.1787 51.6548' rotation='0.379673 0 -0.415094 0.979809'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='0.677444' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='38.4755 73.5197 51.9978' rotation='-0.306327 0 0.334906 2.16178'>
+     <Shape>
+      <Appearance USE='a2'/>
+      <Cylinder radius='0.2' height='0.546574' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='37.428 71.369 52.398' rotation='1.39 0 0.582 1.7352'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='1.52752' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='36.4095 71.4725 53.148' rotation='0.11 0 1.455 1.26728'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='1.52904' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='35.385 71.5585 53.893' rotation='-1.38 0 -0.594 1.38333'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='1.5292' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='34.519 71.8985 54.7595' rotation='0.353 0 1.138 0.890042'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='1.53326' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='33.8015 72.2883 55.285' rotation='0.698057 0 0.296955 1.81041'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='0.780905' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='33.5235 72.1148 55.9385' rotation='-0.608943 0 -0.259045 1.33118'>
+     <Shape>
+      <Appearance USE='a0'/>
+      <Cylinder radius='0.2' height='0.681215' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='33.2065 72.0207 56.5736' rotation='0.661125 0 0.375057 1.60572'>
+     <Shape>
+      <Appearance USE='a0'/>
+      <Cylinder radius='0.2' height='0.760565' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='32.804 71.9922 57.2831' rotation='-0.757875 0 -0.429943 1.53587'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='0.871867' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='32.9158 72.1051 58.742' rotation='-0.656 0 0.198477 1.68384'>
+     <Shape>
+      <Appearance USE='a0'/>
+      <Cylinder radius='0.2' height='0.68977' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='32.7028 72.0216 58.038' rotation='0.752 0 -0.227523 1.45775'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='0.790712' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='33.0019 72.5038 59.157' rotation='0.174092 0 0.02624 0.239954'>
+     <Shape>
+      <Appearance USE='a0'/>
+      <Cylinder radius='0.2' height='0.740806' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='32.9759 73.2168 59.3295' rotation='-0.170908 0 -0.02576 2.90164'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='0.727255' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='33.1765 73.8715 60.0975' rotation='-1.365 0 0.427 1.96979'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='1.55215' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='33.5104 73.8854 61.0102' rotation='0.460386 0 -0.240875 2.40696'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='0.775145' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='33.7359 73.3469 61.4412' rotation='-0.401614 0 0.210125 0.734635'>
+     <Shape>
+      <Appearance USE='a0'/>
+      <Cylinder radius='0.2' height='0.67619' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='32.698 73.9715 58.8295' rotation='-1.171 0 0.53 1.01239'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='1.51557' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='32.3375 73.8715 57.687' rotation='-1.114 0 0.191 2.29661'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='1.51112' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='32.4155 72.6735 57.396' rotation='0.532 0 -0.347 2.71379'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='1.53097' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='31.9875 73.5455 56.413' rotation='-1.434 0 0.509 1.34409'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='1.56161' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='31.2835 73.1685 55.425' rotation='-0.542 0 0.899 2.38183'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='1.52414' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='30.294 72.885 54.6945' rotation='-0.919 0 1.08 1.20819'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='1.51671' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='29.0217 72.5057 53.7578' rotation='0.261624 0 -0.401473 0.932613'>
+     <Shape>
+      <Appearance USE='a2'/>
+      <Cylinder radius='0.2' height='0.596622' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='29.4882 72.9187 54.0618' rotation='-0.346376 0 0.531527 2.20898'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='0.789894' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='29.6127 74.2065 53.9776' rotation='0.141139 0 -0.0774545 2.86951'>
+     <Shape>
+      <Appearance USE='a2'/>
+      <Cylinder radius='0.2' height='0.599075' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='29.7027 73.536 54.1416' rotation='-0.186861 0 0.102545 0.272085'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='0.793141' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='32.219 75.125 58.239' rotation='-0.01 0 0.428 0.277317'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='1.56375' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='32.5715 76.336 58.35' rotation='0.232 0 -1.133 0.899867'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='1.47656' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='34.112 76.3523 58.6159' rotation='-0.0821879 0 0.534006 1.14862'>
+     <Shape>
+      <Appearance USE='a2'/>
+      <Cylinder radius='0.2' height='0.592297' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='33.4915 76.6343 58.5204' rotation='0.108812 0 -0.706994 1.99297'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='0.784168' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='33.0462 77.8608 58.495' rotation='-0.0159212 0 -0.0503455 3.05148'>
+     <Shape>
+      <Appearance USE='a2'/>
+      <Cylinder radius='0.2' height='0.586732' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='33.1047 77.1818 58.4765' rotation='0.0210788 0 0.0666545 0.0901168'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='0.776801' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='27.4052 73.4546 50.6596' rotation='0.137261 0 -0.70233 1.98746'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='0.78257' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='28.0627 73.1581 50.7881' rotation='-0.119739 0 0.61267 1.15413'>
+     <Shape>
+      <Appearance USE='a0'/>
+      <Cylinder radius='0.2' height='0.682668' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='26.7975 73.9555 51.2255' rotation='1.269 0 0.513 1.10679'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='1.53061' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='26.7813 74.5977 51.9667' rotation='0.213329 0 -0.480695 0.72013'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='0.797452' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='27.2083 75.1302 52.1562' rotation='-0.165671 0 0.373305 2.42146'>
+     <Shape>
+      <Appearance USE='a2'/>
+      <Cylinder radius='0.2' height='0.619298' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='27.037 74.1095 50.006' rotation='1.17 0 -0.034 2.27434'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='1.53496' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='26.7571 74.6104 49.2085' rotation='-0.425057 0 0.525786 1.5577'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='0.676168' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='26.2821 74.6184 48.8245' rotation='0.342943 0 -0.424214 1.58389'>
+     <Shape>
+      <Appearance USE='a2'/>
+      <Cylinder radius='0.2' height='0.545544' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='25.3219 66.2898 50.0573' rotation='-0.177318 0 -0.755739 1.5481'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='0.776462' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='26.0294 66.3063 49.8913' rotation='0.154682 0 0.659261 1.5935'>
+     <Shape>
+      <Appearance USE='a0'/>
+      <Cylinder radius='0.2' height='0.677339' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='24.534 65.919 49.6045' rotation='1.083 0 -0.82 1.08112'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='1.53931' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='23.803 65.461 49.1131' rotation='0.100176 0 0.642013 1.85818'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='0.677568' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='23.223 65.2875 49.2036' rotation='-0.0808239 0 -0.517987 1.28342'>
+     <Shape>
+      <Appearance USE='a2'/>
+      <Cylinder radius='0.2' height='0.546674' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='24.7 67.005 50.2225' rotation='0.153 0 0.488 0.339516'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='1.53566' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='24.8335 68.074 50.846' rotation='1.094 0 -0.755 1.09199'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='1.49765' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='25.7525 68.829 51.2375' rotation='0.311 0 1.083 2.1999'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='1.39356' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='26.642 69.5655 51.587' rotation='1.01 0 -0.696 1.08159'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='1.38958' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='26.7955 69.8085 52.758' rotation='1.332 0 0.389 1.69057'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='1.39765' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='26.7806 69.9007 53.6854' rotation='0.522857 0 -0.359235 1.06498'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='0.725181' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='27.1231 70.2357 54.1839' rotation='-0.474143 0 0.325765 2.07662'>
+     <Shape>
+      <Appearance USE='a2'/>
+      <Cylinder radius='0.2' height='0.657618' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='26.064 69.3185 53.5815' rotation='-0.315 0 -1.074 0.942581'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='1.38335' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='25.1785 68.5855 53.2335' rotation='1.011 0 -0.697 1.08206'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='1.39081' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+    <Transform translation='25.0205 68.339 52.0605' rotation='-1.335 0 -0.381 1.45605'>
+     <Shape>
+      <Appearance USE='a1'/>
+      <Cylinder radius='0.2' height='1.39749' bottom='false' top='false'/>
+     </Shape>
+    </Transform>
+   </Transform>
+  </Group>
+ </Scene>
+</X3D>
